@@ -1,0 +1,31 @@
+=== boot -17  first: 2026-10-18T15:44:54+03:00  last: 2026-10-18T15:46:08+03:00
+Oct 18 15:46:05.253603 host ollama: slot print_timing: id  0 | task 3 | n_decoded =    553, tg =  61.32 t/s, tg_3s =  61.17 t/s
+Oct 18 15:46:08.255990 host ollama: slot print_timing: id  0 | task 3 | n_decoded =    736, tg =  61.23 t/s, tg_3s =  60.95 t/s
+=== boot -16  first: 2026-10-18T15:47:06+03:00  last: 2026-10-18T15:50:07+03:00
+=== boot -15  first: 2026-10-18T15:52:45+03:00  last: 2026-10-18T15:53:41+03:00
+Oct 18 15:53:38.274886 host ollama: slot print_timing: id  0 | task 3 | n_decoded =    553, tg =  61.23 t/s, tg_3s =  61.05 t/s
+Oct 18 15:53:41.276011 host ollama: slot print_timing: id  0 | task 3 | n_decoded =    736, tg =  61.17 t/s, tg_3s =  60.98 t/s
+=== boot -14  first: 2026-10-18T15:59:22+03:00  last: 2026-10-18T16:00:30+03:00
+Oct 18 16:00:26.713208 host ollama: slot print_timing: id  0 | task 3 | n_decoded =    185, tg =  61.60 t/s, tg_3s =  61.60 t/s
+Oct 18 16:00:29.725157 host ollama: slot print_timing: id  0 | task 3 | n_decoded =    369, tg =  61.34 t/s, tg_3s =  61.09 t/s
+=== boot -13  first: 2026-10-18T16:34:47+03:00  last: 2026-10-18T16:35:26+03:00
+=== boot -12  first: 2026-10-18T16:39:42+03:00  last: 2026-10-18T16:40:31+03:00
+Oct 18 16:40:28.381246 host ollama: slot print_timing: id  0 | task 3 | n_decoded =    185, tg =  61.65 t/s, tg_3s =  61.65 t/s
+Oct 18 16:40:31.382770 host ollama: slot print_timing: id  0 | task 3 | n_decoded =    368, tg =  61.31 t/s, tg_3s =  60.97 t/s
+=== boot -11  first: 2026-10-18T16:41:30+03:00  last: 2026-10-18T16:43:07+03:00
+=== boot -10  first: 2026-10-18T16:44:48+03:00  last: 2026-10-18T16:45:36+03:00
+=== boot -9  first: 2026-10-18T16:57:13+03:00  last: 2026-10-18T17:02:47+03:00
+=== boot -8  first: 2026-10-18T17:12:08+03:00  last: 2026-10-18T17:12:45+03:00
+=== boot -7  first: 2026-10-18T17:16:50+03:00  last: 2026-10-18T17:18:01+03:00
+=== boot -6  first: 2026-10-18T17:38:29+03:00  last: 2026-10-18T17:39:33+03:00
+Oct 18 17:39:30.490006 host ollama: slot print_timing: id  0 | task 0 |    graphs reused =          1
+Oct 18 17:39:33.937175 host ollama: slot print_timing: id  0 | task 3 | n_decoded =    185, tg =  61.55 t/s, tg_3s =  61.55 t/s
+=== boot -5  first: 2026-10-18T17:51:24+03:00  last: 2026-10-18T17:52:02+03:00
+=== boot -4  first: 2026-10-18T17:53:57+03:00  last: 2026-10-18T17:54:19+03:00
+=== boot -3  first: 2026-10-18T17:55:36+03:00  last: 2026-10-18T17:56:34+03:00
+=== boot -2  first: 2026-10-18T18:08:35+03:00  last: 2026-10-18T18:14:13+03:00
+Oct 18 18:10:55.231217 host ollama: slot print_timing: id  0 | task 3007 |       total time =   24460.74 ms /  1505 tokens
+Oct 18 18:10:55.231217 host ollama: slot print_timing: id  0 | task 3007 |    graphs reused =       4480
+=== boot -1  first: 2026-10-18T18:18:40+03:00  last: 2026-10-18T18:19:36+03:00
+Oct 18 18:19:36.239194 host ollama: slot print_timing: id  0 | task 0 |       total time =     249.37 ms /    18 tokens
+Oct 18 18:19:36.239194 host ollama: slot print_timing: id  0 | task 0 |    graphs reused =          1

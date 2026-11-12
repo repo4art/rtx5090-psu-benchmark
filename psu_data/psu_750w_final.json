@@ -1,0 +1,16 @@
+{
+ "tok_s": [
+  61.3,
+  60.9,
+  61.4
+ ],
+ "power_peak_w": 554.82,
+ "power_mean_busy_w": 522.6,
+ "sm_clock_mean_busy": 2938,
+ "temp_max": 65.0,
+ "samples": 752,
+ "sw_power_cap": 87,
+ "hw_slowdown": 0,
+ "hw_power_brake": 0,
+ "hw_thermal": 0
+}
